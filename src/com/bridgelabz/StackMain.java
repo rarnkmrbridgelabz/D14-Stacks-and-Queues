@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 public class StackMain {
 
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		
 		Stack stack = new Stack();
 		System.out.println("Stack Operation Adding");
